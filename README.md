@@ -17,8 +17,10 @@ Feel free to open an Issue or submit a Pull Request if you find typos, or if you
 欢迎提交 PR 来修正错别字，或者将本宣言翻译成其他语言。
 
 Something big is happening
-Organic Asylums for Human Beings in AI Age, middle US
-Agricultural and Meditate
-Participate if you can reach USA
+Organic Asylums for Human Beings in AI Age, middle US.
+Agricultural and Meditate.
+Participate if you can reach USA.
+
 CentralAsylum@proton.me
+
 Donation：0x5615C6F624539B12b6E47c42B9B4E64037Ed0Dc7
